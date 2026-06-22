@@ -1,0 +1,28 @@
+{
+  "theme": "Organic & Earthy",
+  "typography": {
+    "primary": "Cormorant Garamond",
+    "secondary": "Outfit"
+  },
+  "palette": {
+    "background": "#F3E9DD",
+    "surface": "#FFF8F0",
+    "primary": "#8D6E63",
+    "secondary": "#BFA27A",
+    "accent": "#6E4F3A",
+    "text": "#3A2A21",
+    "muted": "#7A6152"
+  },
+  "layout": {
+    "hero": "wide image header with call-to-action and summary stats",
+    "cards": "soft rounded panels with gentle shadows and subtle texture",
+    "grid": "dashboard bento grid for saved profiles, favorite recipes, and quick actions"
+  },
+  "components": {
+    "dietForm": "multi-select chips, custom exclusions field, category groups",
+    "foodLists": "split cards for Foods You Can Eat and Foods to Avoid with categories",
+    "recipeCards": "image-driven AI recipe cards with quick tags and save button",
+    "recipeDetail": "ingredients and instructions laid out in an easy reading flow",
+    "auth": "clean organic sign-up / sign-in screens with warm labels"
+  }
+}

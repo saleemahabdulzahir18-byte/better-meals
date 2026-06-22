@@ -1,0 +1,209 @@
+[
+  {
+    "id": "recipe-1",
+    "title": "Earthy Lentil & Quinoa Bowl",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "low-sodium"],
+    "ingredients": ["1 cup cooked quinoa", "1 cup cooked green lentils", "2 cups chopped kale", "1 tbsp olive oil", "1 tsp smoked paprika", "salt and pepper to taste"],
+    "instructions": ["Toss quinoa, lentils and kale in a bowl.", "Drizzle olive oil and season with smoked paprika.", "Serve warm with fresh lemon wedges."],
+    "tags": ["global", "earthy", "meal prep"]
+  },
+  {
+    "id": "recipe-2",
+    "title": "Stuffed Mediterranean Peppers",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["4 bell peppers", "1 cup cooked brown rice", "1/2 cup chopped tomatoes", "1/4 cup chopped parsley", "2 tbsp olive oil", "1 tsp cumin"],
+    "instructions": ["Preheat oven to 375°F.", "Mix rice, tomatoes, parsley, olive oil, and cumin.", "Stuff peppers and bake for 25 minutes."],
+    "tags": ["Mediterranean", "global", "vegetarian"]
+  },
+  {
+    "id": "recipe-3",
+    "title": "Almond-Free Thai Green Curry",
+    "image": "https://images.unsplash.com/photo-1514516870923-4ff2ff3d5ef9",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "halal"],
+    "ingredients": ["1 can coconut milk", "2 cups broccoli florets", "1 cup sliced mushrooms", "2 tbsp gluten-free green curry paste", "1 tbsp fish sauce", "basil leaves"],
+    "instructions": ["Simmer coconut milk with curry paste.", "Add vegetables and cook until tender.", "Finish with basil and serve with jasmine rice."],
+    "tags": ["Thai", "global", "dairy-free"]
+  },
+  {
+    "id": "recipe-4",
+    "title": "Keto-Spiced Chicken Salad",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "diets": ["gluten-free", "dairy-free", "nut-free", "keto", "halal", "kosher"],
+    "ingredients": ["2 cups shredded chicken breast", "1/2 avocado", "1/4 cup diced cucumber", "2 tbsp olive oil", "1 tsp mustard", "fresh dill"],
+    "instructions": ["Combine chicken, avocado and cucumber in a bowl.", "Whisk olive oil, mustard, and dill into a dressing.", "Toss salad and serve chilled."],
+    "tags": ["global", "keto", "salad"]
+  },
+  {
+    "id": "recipe-5",
+    "title": "Warm Spiced Chickpea Stew",
+    "image": "https://images.unsplash.com/photo-1543353071-873f17a7a088",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["2 cups cooked chickpeas", "1 onion", "2 garlic cloves", "1 tsp turmeric", "1 tsp cumin", "3 cups vegetable broth"],
+    "instructions": ["Sauté onion and garlic until softened.", "Add chickpeas, turmeric, cumin, and broth.", "Simmer for 20 minutes then serve warm."],
+    "tags": ["Middle Eastern", "global", "comfort food"]
+  },
+  {
+    "id": "recipe-6",
+    "title": "Miso-Glazed Salmon with Bok Choy",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["gluten-free", "dairy-free", "nut-free", "keto", "halal"],
+    "ingredients": ["2 salmon fillets", "2 tbsp gluten-free miso paste", "1 tbsp tamari", "1 tbsp sesame oil", "2 cups bok choy", "1 tsp ginger"],
+    "instructions": ["Whisk miso, tamari, sesame oil, and ginger.", "Brush salmon and bake at 400°F for 12 minutes.", "Serve with sautéed bok choy."],
+    "tags": ["Asian", "global", "seafood"]
+  },
+  {
+    "id": "recipe-7",
+    "title": "Moroccan Vegetable Tagine",
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb29",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium", "halal"],
+    "ingredients": ["1 eggplant", "2 carrots", "1 zucchini", "1 sweet potato", "2 cups tomatoes", "1 tsp ras el hanout"],
+    "instructions": ["Chop vegetables and toss with spices.", "Simmer in a wide pot with tomatoes until tender.", "Serve with fresh cilantro."],
+    "tags": ["Moroccan", "global", "vegetable"]
+  },
+  {
+    "id": "recipe-8",
+    "title": "Quinoa Tabbouleh with Pomegranate",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["1 cup cooked quinoa", "1 cup chopped parsley", "1/2 cup chopped mint", "1/2 cup pomegranate seeds", "2 tbsp olive oil", "1 lemon"],
+    "instructions": ["Stir quinoa, herbs, and pomegranate together.", "Dress with olive oil and lemon juice.", "Chill before serving."],
+    "tags": ["Mediterranean", "global", "light"]
+  },
+  {
+    "id": "recipe-9",
+    "title": "Herbed Chickpea Pancakes",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free"],
+    "ingredients": ["1 cup chickpea flour", "1 cup water", "1/2 cup chopped spinach", "1 green onion", "1 tsp cumin", "salt to taste"],
+    "instructions": ["Whisk flour and water into a batter.", "Fold in spinach, onion, and cumin.", "Cook pancakes in a nonstick pan until golden."],
+    "tags": ["Indian", "global", "protein"]
+  },
+  {
+    "id": "recipe-10",
+    "title": "Basil Pesto Zoodles",
+    "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "keto"],
+    "ingredients": ["3 zucchini spirals", "1 cup fresh basil", "2 tbsp olive oil", "1 garlic clove", "1 tbsp lemon juice", "salt and pepper"],
+    "instructions": ["Blend basil, olive oil, garlic, and lemon.", "Toss zucchini noodles in pesto.", "Serve with cracked black pepper."],
+    "tags": ["Italian", "global", "light"]
+  },
+  {
+    "id": "recipe-11",
+    "title": "Black Bean & Sweet Potato Enchiladas",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543",
+    "diets": ["vegan", "vegetarian", "dairy-free", "nut-free"],
+    "ingredients": ["8 gluten-free tortillas", "2 cups mashed sweet potato", "1 can black beans", "1 cup salsa", "1 tsp chili powder", "1/2 cup chopped cilantro"],
+    "instructions": ["Fill tortillas with sweet potato and black beans.", "Roll and place in a baking dish with salsa.", "Bake at 375°F for 20 minutes."],
+    "tags": ["Mexican", "global", "comfort food"]
+  },
+  {
+    "id": "recipe-12",
+    "title": "Harissa-Spiced Cauliflower Steak",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "halal"],
+    "ingredients": ["1 head cauliflower", "2 tbsp harissa paste", "1 tbsp olive oil", "1 tsp smoked paprika", "lemon wedges"],
+    "instructions": ["Slice cauliflower into steaks.", "Brush with harissa and oil.", "Roast at 425°F for 22 minutes."],
+    "tags": ["North African", "global", "vegetable"]
+  },
+  {
+    "id": "recipe-13",
+    "title": "Turkish Lentil Soup",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["1 cup red lentils", "1 carrot", "1 potato", "1 onion", "1 tsp paprika", "4 cups vegetable broth"],
+    "instructions": ["Sauté vegetables until softened.", "Add lentils, paprika, and broth.", "Simmer for 25 minutes then blend smooth."],
+    "tags": ["Turkish", "global", "soup"]
+  },
+  {
+    "id": "recipe-14",
+    "title": "Coconut Mango Chia Pudding",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free"],
+    "ingredients": ["3 tbsp chia seeds", "1 cup coconut milk", "1/2 cup mango puree", "1 tsp maple syrup", "mint leaves"],
+    "instructions": ["Whisk chia seeds with coconut milk and syrup.", "Refrigerate for 4 hours.", "Top with mango puree and mint."],
+    "tags": ["Dessert", "global", "fresh"]
+  },
+  {
+    "id": "recipe-15",
+    "title": "Israeli Couscous Salad",
+    "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9",
+    "diets": ["vegetarian", "dairy-free", "nut-free", "halal", "kosher"],
+    "ingredients": ["1 cup Israeli couscous", "1/2 cup chopped cucumber", "1/2 cup cherry tomatoes", "2 tbsp olive oil", "1 tbsp lemon juice", "fresh parsley"],
+    "instructions": ["Cook couscous until tender.", "Toss with vegetables, oil, and lemon.", "Serve at room temperature."],
+    "tags": ["Mediterranean", "global", "salad"]
+  },
+  {
+    "id": "recipe-16",
+    "title": "Pumpkin Curry with Spinach",
+    "image": "https://images.unsplash.com/photo-1543353071-873f17a7a088",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["2 cups pumpkin cubes", "1 cup spinach", "1 can coconut milk", "1 tbsp curry powder", "1 onion", "2 garlic cloves"],
+    "instructions": ["Sauté onion and garlic.", "Add pumpkin, coconut milk, and curry powder.", "Simmer until pumpkin is soft, then stir in spinach."],
+    "tags": ["Indian", "global", "comfort food"]
+  },
+  {
+    "id": "recipe-17",
+    "title": "Grilled Halloumi & Tomato Skewers",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["vegetarian", "gluten-free", "halal", "kosher"],
+    "ingredients": ["8 cubes halloumi", "1 cup cherry tomatoes", "2 tbsp olive oil", "1 tsp oregano", "lemon juice"],
+    "instructions": ["Thread halloumi and tomatoes onto skewers.", "Brush with olive oil and oregano.", "Grill until golden and serve with lemon."],
+    "tags": ["Mediterranean", "global", "grill"]
+  },
+  {
+    "id": "recipe-18",
+    "title": "Sesame-Ginger Edamame Salad",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "nut-free", "low-sodium"],
+    "ingredients": ["2 cups cooked edamame", "1 cup shredded cabbage", "1 tbsp sesame oil", "1 tbsp rice vinegar", "1 tsp grated ginger", "scallions"],
+    "instructions": ["Mix edamame and cabbage in a bowl.", "Whisk sesame oil, vinegar, and ginger.", "Toss salad with dressing and scallions."],
+    "tags": ["Asian", "global", "light"]
+  },
+  {
+    "id": "recipe-19",
+    "title": "Rosemary Lemon Chicken with Asparagus",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "diets": ["gluten-free", "dairy-free", "nut-free", "keto", "halal", "kosher"],
+    "ingredients": ["2 chicken breasts", "1 bunch asparagus", "1 lemon", "1 tbsp olive oil", "1 tsp rosemary", "salt and pepper"],
+    "instructions": ["Season chicken with lemon and rosemary.", "Roast with asparagus at 400°F for 20 minutes.", "Serve with pan juices."],
+    "tags": ["European", "global", "roast"]
+  },
+  {
+    "id": "recipe-20",
+    "title": "Sweet Potato & Black Bean Tacos",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543",
+    "diets": ["vegan", "vegetarian", "dairy-free", "nut-free"],
+    "ingredients": ["8 corn tortillas", "2 cups roasted sweet potato", "1 can black beans", "1/2 cup cabbage slaw", "1 tbsp lime juice", "cilantro"],
+    "instructions": ["Warm tortillas and fill with sweet potato and beans.", "Top with slaw, lime juice, and cilantro.", "Serve immediately."],
+    "tags": ["Mexican", "global", "street food"]
+  },
+  {
+    "id": "recipe-21",
+    "title": "Citrus Tahini Salad with Chickpeas",
+    "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9",
+    "diets": ["vegan", "vegetarian", "gluten-free", "dairy-free", "low-sodium"],
+    "ingredients": ["2 cups mixed greens", "1 cup chickpeas", "1/4 cup tahini", "2 tbsp lemon juice", "1 orange", "1 tsp maple syrup"],
+    "instructions": ["Whisk tahini with lemon, orange juice, and syrup.", "Toss greens and chickpeas with dressing.", "Serve with orange segments."],
+    "tags": ["Mediterranean", "global", "salad"]
+  },
+  {
+    "id": "recipe-22",
+    "title": "Japanese-Inspired Tuna Salad Bowl",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "diets": ["gluten-free", "dairy-free", "nut-free", "keto", "halal"],
+    "ingredients": ["4 oz tuna steak", "2 cups mixed greens", "1/2 avocado", "1 tbsp tamari", "1 tsp sesame oil", "pickled ginger"],
+    "instructions": ["Pan-sear tuna and slice thin.", "Build bowl with greens, avocado, and tuna.", "Drizzle tamari-sesame dressing."],
+    "tags": ["Japanese", "global", "bowl"]
+  },
+  {
+    "id": "recipe-23",
+    "title": "Baked Apple Oatmeal Cups",
+    "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9",
+    "diets": ["vegetarian", "dairy-free", "nut-free"],
+    "ingredients": ["2 cups gluten-free oats", "1 cup applesauce", "1/2 cup almond milk substitute", "1 apple", "1 tsp cinnamon", "1 tbsp maple syrup"],
+    "instructions": ["Mix oats, applesauce, milk substitute, and cinnamon.", "Spoon into muffin tin and top with apple slices.", "Bake at 350°F for 22 minutes."],
+    "tags": ["Breakfast", "global", "baked goods"]
+  }
+]

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Better Meals — Preview</title>
+    <link rel="stylesheet" href="src/styles.css" />
+    <style>
+      /* Minor preview-only tweaks */
+      body { background: #fbf7f3; }
+      .preview-wrap { max-width: 1100px; margin: 28px auto; }
+      .hero-copy h1 { margin-bottom: 8px; }
+      .hero-panel { display:none; } /* hide auth card to focus on hero */
+      .app-shell { margin-top: 18px; }
+      .recipe-card img, .recipe-detail-card img { max-width: 100%; height: auto; display:block }
+    </style>
+  </head>
+  <body>
+    <div class="preview-wrap">
+      <!-- Landing hero (static) -->
+      <div class="landing-shell">
+        <header class="landing-nav">
+          <div class="brand">
+            <span class="brand-mark">🍃</span>
+            <span class="brand-name">better meals</span>
+          </div>
+          <div class="nav-links">
+            <button class="nav-link">Build my plan</button>
+            <button class="nav-link">Log in</button>
+            <button class="primary-button nav-cta">Get started</button>
+          </div>
+        </header>
+
+        <main class="landing-hero">
+          <div class="hero-copy">
+            <span class="eyebrow">Eat better, freely.</span>
+            <h1>Food that fits your body — not the other way around.</h1>
+            <p>Tell us your dietary restrictions. We'll hand back a clear list of what you can & can't eat — plus a fresh set of global recipes you can actually cook tonight.</p>
+            <div class="hero-actions">
+              <button class="primary-button">Build my plan</button>
+              <button class="secondary-button">Create an account</button>
+              <button class="pill">Scanner</button>
+            </div>
+          </div>
+          <aside class="hero-panel">
+            <div class="auth-card landing-card">
+              <h2>Create your profile</h2>
+              <p>Sign up to save your dietary preferences and favorite recipes.</p>
+            </div>
+          </aside>
+        </main>
+
+        <section class="landing-content">
+          <div class="landing-copy">
+            <h2>Eating shouldn’t feel like a guessing game.</h2>
+            <p>Better Meals was built for everyone who’s ever held a food package in the grocery aisle, squinting at tiny print.</p>
+          </div>
+
+          <div class="info-cards">
+            <article class="info-card"><span class="info-card-number">01</span><h3>Confidence</h3><p>Every suggestion is filtered through your full profile.</p></article>
+            <article class="info-card"><span class="info-card-number">02</span><h3>Curiosity</h3><p>Discover meals from cuisines you didn’t know were already safe for you.</p></article>
+            <article class="info-card"><span class="info-card-number">03</span><h3>Freedom</h3><p>Eat out, travel, host friends — without the dread.</p></article>
+          </div>
+        </section>
+
+        <!-- Quick static dashboard preview -->
+        <div class="app-shell">
+          <header class="hero-section">
+            <div>
+              <span class="eyebrow">Organic, global meal planning</span>
+              <h1>Eat with confidence through every dietary restriction.</h1>
+            </div>
+            <button class="secondary-button">Sign Out</button>
+          </header>
+
+          <section class="dashboard-grid">
+            <section class="card profile-card">
+              <h2>Saved profile</h2>
+              <div class="profile-summary">
+                <p><strong>Diets</strong>: vegan</p>
+                <p><strong>Allergies</strong>: peanuts, dairy</p>
+                <p><strong>Conditions</strong>: diabetes</p>
+                <p><strong>Custom Exclusions</strong>: mushrooms</p>
+              </div>
+            </section>
+
+            <section class="card favorites-card">
+              <h2>Favorited recipes</h2>
+              <div class="favorites-list">
+                <div class="favorite-item"><button class="link-button">Chickpea Coconut Curry</button></div>
+                <div class="favorite-item"><button class="link-button">Quinoa Tabbouleh</button></div>
+              </div>
+            </section>
+          </section>
+
+          <section class="cards-pair">
+            <section class="card list-card">
+              <h2>Foods You Can Eat</h2>
+              <div class="food-list">
+                <div class="food-item"><span>Quinoa</span><small>Grain</small></div>
+                <div class="food-item"><span>Spinach</span><small>Produce</small></div>
+              </div>
+            </section>
+            <section class="card list-card avoid-card">
+              <h2>Foods to Avoid</h2>
+              <div class="food-list">
+                <div class="food-item"><span>Peanut Butter</span><small>Spread</small></div>
+                <div class="food-item"><span>Milk</span><small>Dairy</small></div>
+              </div>
+            </section>
+          </section>
+
+          <section class="recipe-section">
+            <div class="section-header">
+              <div>
+                <span class="eyebrow">AI-inspired recipe ideas</span>
+                <h2>Recipe suggestions for your diet</h2>
+              </div>
+              <p>Browse a curated selection of recipes built for your restrictions.</p>
+            </div>
+
+            <div class="recipe-cards">
+              <article class="recipe-card">
+                <img src="https://via.placeholder.com/320x180.png?text=Curry" alt="Chickpea Curry">
+                <div class="recipe-card-body"><h3>Chickpea Coconut Curry</h3><p>vegan • gluten-free</p></div>
+              </article>
+              <article class="recipe-card">
+                <img src="https://via.placeholder.com/320x180.png?text=Quinoa" alt="Quinoa Tabbouleh">
+                <div class="recipe-card-body"><h3>Quinoa Tabbouleh</h3><p>vegetarian • nut-free</p></div>
+              </article>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
